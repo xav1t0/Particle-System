@@ -1,2 +1,2 @@
 # Particle-System
-Particle system made With Unity
+This is a pong made with Raylib in C#
